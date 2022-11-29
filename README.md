@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AM8bit
+- I am a Yuri in Red Alert
 - I love photography, CTF, C language. Is a security researcher
 
 <!---
